@@ -1,0 +1,12 @@
+# Ignore files created by Unity Cloud Build
+*.unitycloudbuild
+
+# Ignore files created by external editors or OS
+.vs/
+.idea/
+*.csproj
+*.sln
+*.userprefs
+Thumbs.db
+.DS_Store
+
